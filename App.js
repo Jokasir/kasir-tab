@@ -6,6 +6,8 @@ import Login from './screens/Login';
 
 export default function App() {
   return (
-    <Login />
+    <View>
+      <Text>Hello World</Text>
+    </View>
   );
 }
